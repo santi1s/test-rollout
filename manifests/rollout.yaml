@@ -17,8 +17,8 @@ spec:
         image: nginx:1.21
         resources:
           requests:
-            cpu: 100m
-            memory: 128Mi
+            cpu: 120m
+            memory: 138Mi
           limits:
             cpu: 150m
             memory: 256Mi
